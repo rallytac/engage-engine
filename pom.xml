@@ -5,7 +5,7 @@
 
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.rallytac.engage-engine</groupId>
-  <artifactId>engage-engine-release</artifactId>
+  <artifactId>engage-engine</artifactId>
   <version>1.210.9048</version>
   <name>Rally Tactical's Engage Engine for Android</name>
 </project>
